@@ -3,8 +3,11 @@
 ## File layout
 
 -root
+
 --systemTests
+
 --mainCodes
+
 --libs
 
 ## Hardware details
