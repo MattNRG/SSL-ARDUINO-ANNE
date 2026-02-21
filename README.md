@@ -1,14 +1,4 @@
-# SSL-ARDUINO-ANNE
-
-## File layout
-
--root
-
---systemTests
-
---mainCodes
-
---libs
+# SSL-ARDUINO-ANNE tests and details
 
 ## Hardware details
 - Arduino Giga R1 Wifi
